@@ -1,0 +1,12 @@
+  table{
+margin: 0 auto;
+    width: 600px;
+    height: 700px;
+    border-collapse: collapse;
+    border: 6px solid white;
+  }
+    tr,td{
+      border: 5px solid #000;
+      margin: 0;
+      padding: 0;
+  }
